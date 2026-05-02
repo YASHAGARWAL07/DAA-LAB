@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yashagarwal/DAA_LAB/output/Floyd_warshall_allPairShortest'
+relocations:     []
+...
